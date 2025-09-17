@@ -3,7 +3,6 @@
 
 | Day | Project | Status |
 |-----|----------|--------|
-        Phase 1: Basics (Day 1-20)
 | 1   | Calculator App | ✅ |
 | 2   | Number Guessing Game | ⏳ |
 | 3   | Rock Paper Scissors | ⏳ |
