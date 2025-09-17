@@ -24,84 +24,86 @@
 | 19  | QR Code Generator | ⏳ |
 | 20  | Dictionary App | ⏳ |
 PHASE 2: Intermediate (Day 21-50)
-| 21  | Quiz App | ⏳ |
-| 22  | Quiz App | ⏳ |
-| 23  | Quiz App | ⏳ |
-| 24  | Quiz App | ⏳ |
-| 25  | Quiz App | ⏳ |
-| 26  | Quiz App | ⏳ |
-| 27  | Quiz App | ⏳ |
-| 28  | Quiz App | ⏳ |
-| 29  | Quiz App | ⏳ |
-| 30  | Quiz App | ⏳ |
-| 31  | Quiz App | ⏳ |
-| 32  | Quiz App | ⏳ |
-| 33  | Quiz App | ⏳ |
-| 34  | Quiz App | ⏳ |
-| 35  | Quiz App | ⏳ |
-| 36  | Quiz App | ⏳ |
-| 37  | Quiz App | ⏳ |
-| 38  | Quiz App | ⏳ |
-| 39  | Quiz App | ⏳ |
-| 40  | Quiz App | ⏳ |
-| 41  | Quiz App | ⏳ |
-| 42  | Quiz App | ⏳ |
-| 43  | Quiz App | ⏳ |
-| 44  | Quiz App | ⏳ |
-| 45  | Quiz App | ⏳ |
-| 46  | Quiz App | ⏳ |
-| 47  | Quiz App | ⏳ |
-| 48  | Quiz App | ⏳ |
-| 49  | Quiz App | ⏳ |
-| 50  | Quiz App | ⏳ |
+| 21  | Web Scraper | ⏳ |
+| 22  | URL Shortener | ⏳ |
+| 23  | Notes App | ⏳ |
+| 24  | Chatbot | ⏳ |
+| 25  | Flashcards App | ⏳ |
+| 26  | Resume Parser | ⏳ |
+| 27  | Expense Tracker | ⏳ |
+| 28  | Text to Speech Converter | ⏳ |
+| 29  | Sudoku Solver | ⏳ |
+| 30  | Music Player | ⏳ |
+| 31  | Weather Dashboard | ⏳ |
+| 32  | YouTube Video Downloader | ⏳ |
+| 33  | Wikipedia Search App | ⏳ |
+| 34  | Image Resizer | ⏳ |
+| 35  | PDF Merger/Splitter | ⏳ |
+| 36  | Pomodoro Timer | ⏳ |
+| 37  | Translator | ⏳ |
+| 38  | Barcode Generator | ⏳ |
+| 39  | Twitter Bot | ⏳ |
+| 40  | Instagram Hastag Scraper | ⏳ |
+| 41  | Snake Game | ⏳ |
+| 42  | Breakout Game | ⏳ |
+| 43  | Minesweeper | ⏳ |
+| 44  | Calender App | ⏳ |
+| 45  | Quiz App with Database | ⏳ |
+| 46  | Weather App With Database | ⏳ |
+| 47  | Email Automation | ⏳ |
+| 48  | Stock Price Tracker | ⏳ |
+| 49  | News App | ⏳ |
+| 50  | Personal Diary App | ⏳ |
 PHASE 3: Advanced (Day 51-100)
-| 51  | Quiz App | ⏳ |
-| 52  | Quiz App | ⏳ |
-| 53  | Quiz App | ⏳ |
-| 54  | Quiz App | ⏳ |
-| 55  | Quiz App | ⏳ |
-| 56  | Quiz App | ⏳ |
-| 57  | Quiz App | ⏳ |
-| 58  | Quiz App | ⏳ |
-| 59  | Quiz App | ⏳ |
-| 60  | Quiz App | ⏳ |
-| 61  | Quiz App | ⏳ |
-| 62  | Quiz App | ⏳ |
-| 63  | Quiz App | ⏳ |
-| 64  | Quiz App | ⏳ |
-| 65  | Quiz App | ⏳ |
-| 66  | Quiz App | ⏳ |
-| 67  | Quiz App | ⏳ |
-| 68  | Quiz App | ⏳ |
-| 69  | Quiz App | ⏳ |
-| 70  | Quiz App | ⏳ |
-| 71  | Quiz App | ⏳ |
-| 72  | Quiz App | ⏳ |
-| 73  | Quiz App | ⏳ |
-| 74  | Quiz App | ⏳ |
-| 75  | Quiz App | ⏳ |
-| 76  | Quiz App | ⏳ |
-| 77  | Quiz App | ⏳ |
-| 78  | Quiz App | ⏳ |
-| 79  | Quiz App | ⏳ |
-| 80  | Quiz App | ⏳ |
-| 81  | Quiz App | ⏳ |
-| 82  | Quiz App | ⏳ |
-| 83  | Quiz App | ⏳ |
-| 84  | Quiz App | ⏳ |
-| 85  | Quiz App | ⏳ |
-| 86  | Quiz App | ⏳ |
-| 87  | Quiz App | ⏳ |
-| 88  | Quiz App | ⏳ |
-| 89  | Quiz App | ⏳ |
-| 90  | Quiz App | ⏳ |
-| 91  | Quiz App | ⏳ |
-| 92  | Quiz App | ⏳ |
-| 93  | Quiz App | ⏳ |
-| 94  | Quiz App | ⏳ |
-| 95  | Quiz App | ⏳ |
-| 96  | Quiz App | ⏳ |
-| 97  | Quiz App | ⏳ |
-| 98  | Quiz App | ⏳ |
-| 99  | Quiz App | ⏳ |
-| 100 | Quiz App | ⏳ |
+| 51  | Blog Website(Flask) | ⏳ |
+| 52  | Portfolio Website (Flask) | ⏳ |
+| 53  | REST API with Flask | ⏳ |
+| 54  | E-commerce Cart(Flask) | ⏳ |
+| 55  | Login System With JWT | ⏳ |
+| 56  | Movie Recommendation System| ⏳ |
+| 57  | Customer Churn Prediction | ⏳ |
+| 58  | House Price Prediction | ⏳ |
+| 59  | Sentiment Analysis | ⏳ |
+| 60  | Chatbot with NLP | ⏳ |
+| 61  | Face Detection (OpenCV) | ⏳ |
+| 62  | Hand Gesture Recognition | ⏳ |
+| 63  | Object Detection(YOLO) | ⏳ |
+| 64  | Voice Assistant | ⏳ |
+| 65  | PDF Text Extractor with NLP | ⏳ |
+| 66  | Resume Ranking System | ⏳ |
+| 67  | Fake News Detector | ⏳ |
+| 68  | Spam Email Dectector | ⏳ |
+| 69  | Language Translator | ⏳ |
+| 70  | AI Text Summarizer | ⏳ |
+| 71  | Weather Forecast Prediction | ⏳ |
+| 72  | Stock Market Predictor | ⏳ |
+| 73  | Diabetes Predition | ⏳ |
+| 74  | Music Genre Classification | ⏳ |
+| 75  | Credit Card Fraud Detection | ⏳ |
+| 76  | Web Scraping + Dashboard (Streamlit) | ⏳ |
+| 77  | Portfolio Finance Dashboard | ⏳ |
+| 78  | Personal Finance Dashboard | ⏳ |
+| 79  | COVID-19 Data Tracker | ⏳ |
+| 80  | Movie Database App (Flask + API) | ⏳ |
+| 81  | Chat Application | ⏳ |
+| 82  | Realtime Whiteboard | ⏳ |
+| 83  | Blog CMS | ⏳ |
+| 84  | E-learning Platform | ⏳ |
+| 85  | Instagram Clone | ⏳ |
+| 86  | Twitter Clone | ⏳ |
+| 87  | Linked Auto-Apply Bot | ⏳ |
+| 88  | Job Recommendation System | ⏳ |
+| 89  | Recipe Recommendation System  | ⏳ |
+| 90  | Book Recommendation System | ⏳ |
+| 91  | AI Image Caption Generator | ⏳ |
+| 92  | AI Chatbot (Transformers) | ⏳ |
+| 93  | Video Summarizer | ⏳ |
+| 94  | Emotion Detection(Text) | ⏳ |
+| 95  | Emotion Detection(Face) | ⏳ |
+| 96  | AI Voice Generator  | ⏳ |
+| 97  | Music Recommendation (Spotify API) | ⏳ |
+| 98  | Real-time | ⏳ |
+| 99  | Ful Stack Translator(Speech) | ⏳ |
+| 100 | Final Capstone Project | ⏳ |
+
+
