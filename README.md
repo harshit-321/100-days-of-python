@@ -54,7 +54,7 @@ PHASE 2: Intermediate (Day 21-50)
 | 48  | Quiz App | ⏳ |
 | 49  | Quiz App | ⏳ |
 | 50  | Quiz App | ⏳ |
-|     |          |    | PHASE 3: Advanced (Day 51-100)
+PHASE 3: Advanced (Day 51-100)
 | 51  | Quiz App | ⏳ |
 | 52  | Quiz App | ⏳ |
 | 53  | Quiz App | ⏳ |
