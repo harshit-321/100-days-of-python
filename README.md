@@ -7,3 +7,19 @@
 | 2   | Number Guessing Game | ⏳ |
 | 3   | Rock Paper Scissors | ⏳ |
 | 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
+| 4   | Quiz App | ⏳ |
