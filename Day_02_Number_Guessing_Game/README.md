@@ -22,6 +22,7 @@ Hints are given if the guess is too high or too low until the correct number is 
 
 
 📸 Example Output
+
 *Welcome to Number Guessing Game!
 
 *Guess the number between 1 and 100
