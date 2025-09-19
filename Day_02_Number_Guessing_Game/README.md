@@ -7,11 +7,15 @@ Hints are given if the guess is too high or too low until the correct number is 
 🚀 Features
 
 *Random number generation between 1–100
+
 *User-friendly hints (Too High / Too Low)
+
 *Unlimited attempts until the correct guess
+
 *Beginner-friendly Python project
 
 🛠️ Requirements
+
 *Python 3.x
 
 
@@ -29,11 +33,15 @@ Hints are given if the guess is too high or too low until the correct number is 
 *Enter Your Guess: 75
 
 *Too High! Try again.
+
 *Enter Your Guess: 63
+
 🎉 Congratulations! You guessed it right.
 
 💡 Future Improvements
+
 *Add difficulty levels (Easy, Medium, Hard)
+
 *Count and display total attempts
 *Replay option
 
