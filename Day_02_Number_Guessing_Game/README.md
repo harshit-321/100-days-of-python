@@ -14,21 +14,20 @@ Hints are given if the guess is too high or too low until the correct number is 
 🛠️ Requirements
 *Python 3.x
 
-▶️ How to Run
-*Clone this repository
-*git clone https://github.com/your-username/number-guessing-game.git
-*Navigate to the folder
-*cd number-guessing-game
-*Run the script
-*python guessing_game.py
+
 
 
 📸 Example Output
 *Welcome to Number Guessing Game!
+
 *Guess the number between 1 and 100
+
 *Enter Your Guess: 50
+
 *Too Low! Try again.
+
 *Enter Your Guess: 75
+
 *Too High! Try again.
 *Enter Your Guess: 63
 🎉 Congratulations! You guessed it right.
