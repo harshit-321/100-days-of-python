@@ -4,7 +4,7 @@
 | Day | Project | Status |
 |-----|----------|--------|
 | 1   | Calculator App | ✅ |
-| 2   | Number Guessing Game | ⏳ |
+| 2   | Number Guessing Game | ✅ |
 | 3   | Rock Paper Scissors | ⏳ |
 | 4   | Quiz App | ⏳ |
 | 5   | Simple Alarm Clock | ⏳ |
