@@ -3,6 +3,8 @@
 This is a beginner-friendly Python program that works as a simple calculator.
 It performs basic arithmetic operations like Addition, Subtraction, Multiplication, Division, and Average.
 
+---
+
 🚀 Features
 
 * Add, Subtract, Multiply, Divide two numbers
@@ -12,6 +14,8 @@ It performs basic arithmetic operations like Addition, Subtraction, Multiplicati
 * Handles invalid inputs and division by zero
 
 * Works with integers and floating-point numbers
+
+  ---
 
 💻 Example
 Please select an operation:
@@ -26,6 +30,8 @@ Enter choice (1-6): 1
 Enter first number: 10
 Enter second number: 5
 10 + 5 = 15
+
+---
 
 🏷️ Tech Stack
 
