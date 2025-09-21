@@ -6,7 +6,7 @@
 | 1   | Calculator App | ✅ |
 | 2   | Number Guessing Game | ✅ |
 | 3   | Rock Paper Scissors | ✅ |
-| 4   | Quiz App |  |
+| 4   | Quiz App | ✅ |
 | 5   | Simple Alarm Clock | ⏳ |
 | 6   | To-Do List | ⏳ |
 | 7   | Unit Converter | ⏳ |
