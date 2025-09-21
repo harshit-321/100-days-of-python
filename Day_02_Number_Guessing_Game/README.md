@@ -4,6 +4,8 @@ A simple Number Guessing Game built using Python's random library.
 The computer generates a random number between 1 and 100, and the player has to guess it.
 Hints are given if the guess is too high or too low until the correct number is guessed.
 
+---
+
 🚀 Features
 
 *Random number generation between 1–100
@@ -14,11 +16,13 @@ Hints are given if the guess is too high or too low until the correct number is 
 
 *Beginner-friendly Python project
 
+---
+
 🛠️ Requirements
 
 *Python 3.x
 
-
+---
 
 
 📸 Example Output
@@ -36,6 +40,8 @@ Hints are given if the guess is too high or too low until the correct number is 
 *Too High! Try again.
 
 *Enter Your Guess: 63
+
+---
 
 🎉 Congratulations! You guessed it right.
 
