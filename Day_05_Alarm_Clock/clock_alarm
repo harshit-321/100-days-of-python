@@ -1,0 +1,24 @@
+import time
+from datetime import datetime
+import winsound   # Works only on Windows
+
+def get_current_time():
+    return datetime.now().strftime("%H:%M")
+
+def set_alarm(alarm_time):
+    print(f"Alarm set for {alarm_time}. Waiting...")
+
+    while True:
+        current_time = get_current_time()
+
+        if current_time == alarm_time:
+            print(f"Alarm! It's {alarm_time}. Time to wake up!")
+            winsound.Beep(3000, 3000)   # 3000Hz sound, 3 seconds
+            break
+
+        time.sleep(1)   # Check every second
+
+# ---- Main Program ----
+
+alarm_time = input("Set alarm (e.g. 04:30): ")
+set_alarm(alarm_time)
