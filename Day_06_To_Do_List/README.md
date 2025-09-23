@@ -33,12 +33,8 @@ A small command-line based To-Do List application written in Python. This projec
 1. In terminal, navigate to the folder containing `todo.py`  
 2. Run the program by typing:
 
+---
 
-   python todo.py
-Or, if your system uses python3:
-
-
-python3 todo.py
 You’ll see a menu like:
 
 1. Add Task  
@@ -57,6 +53,8 @@ Enter the number corresponding to what you want to do:
 4: Delete a task
 
 5: Exit the application
+
+---
 
 Example Session
 
@@ -102,6 +100,4 @@ Persist tasks to file so data is not lost when the program closes
 
 
 
-Sources
 
-Ask ChatGPT
