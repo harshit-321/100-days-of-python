@@ -8,7 +8,7 @@
 | 3   | Rock Paper Scissors | ✅ |
 | 4   | Quiz App | ✅ |
 | 5   | Simple Alarm Clock | ✅ |
-| 6   | To-Do List | ⏳ |
+| 6   | To-Do List | ✅ |
 | 7   | Unit Converter | ⏳ |
 | 8   | Dice Rolling Simulator | ⏳ |
 | 9   | Password Generator | ⏳ |
