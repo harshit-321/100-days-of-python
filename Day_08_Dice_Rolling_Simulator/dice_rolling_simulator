@@ -1,0 +1,14 @@
+import random
+
+print("🎲 Welcome to Dice Rolling Simulator 🎲")
+
+while True:
+    # dice roll (1 to 6)
+    number = random.randint(1, 6)
+    print(f"\nYou rolled: {number}")
+
+    # user choice
+    choice = input("Roll again? (y/n): ").lower()
+    if choice != 'y':
+        print("Thanks for playing! Goodbye 👋")
+        break
