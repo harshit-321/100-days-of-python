@@ -11,7 +11,7 @@
 | 6   | To-Do List | ✅ |
 | 7   | Unit Converter | ✅ |
 | 8   | Dice Rolling Simulator | ✅ |
-| 9   | Password Generator | ⏳ |
+| 9   | Password Generator | ✅ |
 | 10  | Countdown Timer | ⏳ |
 | 11  | Email Slicer | ⏳ |
 | 12  | Palindrome Checker | ⏳ |
