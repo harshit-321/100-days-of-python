@@ -14,8 +14,8 @@
 | 9   | Password Generator | ✅ |
 | 10  | Countdown Timer | ✅ |
 | 11  | Email Slicer | ✅ |
-| 12  | Palindrome Checker | ⏳ |
-| 13  | Tic-Tac-Toe | ⏳ |
+| 12  | Palindrome Checker | ✅ |
+| 13  | Tic-Tac-Toe | ✅ |
 | 14  | BMI Calculator | ⏳ |
 | 15  | Ramdom Joke Generator | ⏳ |
 | 16  | Weather App (API) | ⏳ |
