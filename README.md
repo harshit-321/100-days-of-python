@@ -16,8 +16,8 @@
 | 11  | Email Slicer | ✅ |
 | 12  | Palindrome Checker | ✅ |
 | 13  | Tic-Tac-Toe | ✅ |
-| 14  | BMI Calculator | ⏳ |
-| 15  | Ramdom Joke Generator | ⏳ |
+| 14  | BMI Calculator | ✅ |
+| 15  | Ramdom Joke Generator | ✅ |
 | 16  | Weather App (API) | ⏳ |
 | 17  | File Oranizer Script | ⏳ |
 | 18  | Currency Convertor | ⏳ |
