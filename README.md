@@ -18,7 +18,7 @@
 | 13  | Tic-Tac-Toe | ✅ |
 | 14  | BMI Calculator | ✅ |
 | 15  | Ramdom Joke Generator | ✅ |
-| 16  | Weather App (API) | ⏳ |
+| 16  | Weather App (API) | ✅ |
 | 17  | File Oranizer Script | ⏳ |
 | 18  | Currency Convertor | ⏳ |
 | 19  | QR Code Generator | ⏳ |
