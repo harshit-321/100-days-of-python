@@ -20,7 +20,7 @@
 | 15  | Ramdom Joke Generator | ✅ |
 | 16  | Weather App (API) | ✅ |
 | 17  | File Oranizer Script | ✅ |
-| 18  | Currency Convertor | ⏳ |
+| 18  | Currency Convertor | ✅ |
 | 19  | QR Code Generator | ⏳ |
 | 20  | Dictionary App | ⏳ |
 PHASE 2: Intermediate (Day 21-50)
