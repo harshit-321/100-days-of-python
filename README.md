@@ -1,7 +1,7 @@
-## 100 Days of Python Project Challenge 🚀
+## 100  Python Project Challenge 🚀
 100 Days of Python Projects Challenge | Daily Python practice from basics to advanced.
 
-| Day | Project | Status |
+|S.No. | Project | Status |
 |-----|----------|--------|
 | 1   | Calculator App | ✅ |
 | 2   | Number Guessing Game | ✅ |
