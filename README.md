@@ -23,7 +23,7 @@
 | 18  | Currency Convertor | ✅ |
 | 19  | QR Code Generator | ✅ |
 | 20  | Dictionary App | ✅ |
-PHASE 2: Intermediate (Day 21-50)
+PHASE 2: Intermediate (21-50)
 | 21  | Web Scraper | ⏳ |
 | 22  | URL Shortener | ⏳ |
 | 23  | Notes App | ⏳ |
@@ -54,7 +54,7 @@ PHASE 2: Intermediate (Day 21-50)
 | 48  | Stock Price Tracker | ⏳ |
 | 49  | News App | ⏳ |
 | 50  | Personal Diary App | ⏳ |
-PHASE 3: Advanced (Day 51-100)
+PHASE 3: Advanced ( 51-100)
 | 51  | Blog Website(Flask) | ⏳ |
 | 52  | Portfolio Website (Flask) | ⏳ |
 | 53  | REST API with Flask | ⏳ |
