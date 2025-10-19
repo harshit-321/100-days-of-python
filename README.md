@@ -1,4 +1,4 @@
-## 100 Days of Python Challenge 🚀
+## 100 Days of Python Project Challenge 🚀
 100 Days of Python Projects Challenge | Daily Python practice from basics to advanced.
 
 | Day | Project | Status |
